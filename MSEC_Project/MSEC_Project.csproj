@@ -45,6 +45,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\DB_Classes\Act.cs" />
+    <Compile Include="Classes\DB_Classes\Base.cs" />
+    <Compile Include="Classes\DB_Classes\Msec.cs" />
+    <Compile Include="Classes\DB_Classes\Patient.cs" />
+    <Compile Include="Classes\DB_Contex\DBContex.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
